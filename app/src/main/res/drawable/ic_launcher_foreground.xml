@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Open book left page -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M28,38 C36,35 46,37 53,42 L53,72 C46,67 36,65 28,68 Z" />
+    <!-- Open book right page -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M80,38 C72,35 62,37 55,42 L55,72 C62,67 72,65 80,68 Z" />
+    <!-- Focus spark / clock dot -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,24 A5,5 0 1,0 54,34 A5,5 0 1,0 54,24 Z" />
+</vector>
